@@ -1,2 +1,9 @@
 # SoundStream1.0
-Created with CodeSandbox
+
+Tancred Tugonon
+
+Ian Benedict L. Peteros
+
+Joshua P. Libriro
+
+Paulo Gabriel O. Limit
